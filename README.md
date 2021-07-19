@@ -36,7 +36,7 @@
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 	
-  <img alt="to-do" title="#to-do" src="./github-assets/to-do.gif" width="800px">	
+  <img alt="to-do" title="#to-do" src="./github-assets/to-do.gif" width="800px">
 		
   <img alt="to-do" title="#to-do" src="./github-assets/pagina1.png" width="400px">
 
